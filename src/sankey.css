@@ -1,0 +1,63 @@
+.sankey-container {
+  text-align: center;
+  background: #e3e3f2;
+  padding-bottom: 24px;
+}
+
+.App {
+  background: blue;
+}
+.title {
+  color: #701f93;
+  font-size: 4rem;
+}
+
+.tabTitle {
+  display: inline-block;
+  background: #8f44dc;
+  color: white;
+  padding: 8px;
+  border-radius: 45%;
+  cursor: pointer;
+  font-size: 12px;
+  min-width: 24px;
+}
+
+.tabTitle:not(:last-of-type) {
+  margin-right: 4px;
+}
+
+.tabTitle:hover {
+  opacity: 0.75;
+}
+
+.tabTitle.selected {
+  background: white;
+  color: #8f44dc;
+  border: 1px solid #8f44dc;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: 0.8;
+}
+.link:hover {
+  stroke-opacity: 0.5;
+}
+
+.total-node {
+  display: inline-block;
+  min-width: 33%;
+}
+
+.total-label {
+  font-size: 22px;
+  color: grey;
+  opacity: 0.6;
+}
+
+.total-value {
+  font-size: 42px;
+  color: #262626;
+}

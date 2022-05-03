@@ -1,0 +1,648 @@
+{
+  "total": {
+    "visited": 13812,
+    "registered": 12324,
+    "attended": 12123
+  },
+  "tabs": [
+    {
+      "name": "1W",
+      "nodes": [
+        {
+          "node": 0,
+          "type": "",
+          "name": "Internet",
+          "category": "Business",
+          "color": "white"
+        },
+        {
+          "node": 1,
+          "type": "Registration",
+          "category": "Business",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 2,
+          "type": "Registration",
+          "category": "Technology",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 3,
+          "type": "Registration",
+          "category": "Sales",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 4,
+          "type": "Registration",
+          "category": "Stocks",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 5,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 6,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        }
+      ],
+      "links": [
+        {
+          "source": 0,
+          "target": 1,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 2,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 3,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 1,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#54ef43"
+        },
+        {
+          "source": 1,
+          "target": 5,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 2,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 3,
+          "target": 5,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 3,
+          "target": 6,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        }
+      ]
+    },
+
+    {
+      "name": "1M",
+      "nodes": [
+        {
+          "node": 0,
+          "type": "",
+          "name": "Internet",
+          "category": "Business",
+          "color": "white"
+        },
+        {
+          "node": 1,
+          "type": "Registration",
+          "category": "Business",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 2,
+          "type": "Registration",
+          "category": "Technology",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 3,
+          "type": "Registration",
+          "category": "Sales",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 4,
+          "type": "Registration",
+          "category": "Stocks",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 5,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 6,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        }
+      ],
+      "links": [
+        {
+          "source": 0,
+          "target": 1,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 2,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 3,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 1,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#54ef43"
+        },
+        {
+          "source": 1,
+          "target": 5,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 2,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+
+        {
+          "source": 3,
+          "target": 6,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        }
+      ]
+    },
+
+    {
+      "name": "3M",
+      "nodes": [
+        {
+          "node": 0,
+          "type": "",
+          "name": "Internet",
+          "category": "Business",
+          "color": "white"
+        },
+        {
+          "node": 1,
+          "type": "Registration",
+          "category": "Business",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 2,
+          "type": "Registration",
+          "category": "Technology",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 3,
+          "type": "Registration",
+          "category": "Sales",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 4,
+          "type": "Registration",
+          "category": "Stocks",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 5,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 6,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        }
+      ],
+      "links": [
+        {
+          "source": 0,
+          "target": 1,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 2,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 3,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 1,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#54ef43"
+        },
+        {
+          "source": 2,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 3,
+          "target": 5,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 3,
+          "target": 6,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        }
+      ]
+    },
+    {
+      "name": "1Y",
+      "nodes": [
+        {
+          "node": 0,
+          "type": "",
+          "name": "Internet",
+          "category": "Business",
+          "color": "white"
+        },
+        {
+          "node": 1,
+          "type": "Registration",
+          "category": "Business",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 2,
+          "type": "Registration",
+          "category": "Technology",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 3,
+          "type": "Registration",
+          "category": "Sales",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 4,
+          "type": "Registration",
+          "category": "Stocks",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 5,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 6,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        }
+      ],
+      "links": [
+        {
+          "source": 0,
+          "target": 1,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 2,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 3,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 1,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#54ef43"
+        },
+        {
+          "source": 1,
+          "target": 5,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 2,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 3,
+          "target": 5,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 3,
+          "target": 6,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        }
+      ]
+    },
+    {
+      "name": "ALL",
+      "nodes": [
+        {
+          "node": 0,
+          "type": "",
+          "name": "Internet",
+          "category": "Business",
+          "color": "white"
+        },
+        {
+          "node": 1,
+          "type": "Registration",
+          "category": "Business",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 2,
+          "type": "Registration",
+          "category": "Technology",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 3,
+          "type": "Registration",
+          "category": "Sales",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#F87699",
+          "endColor": "#E589D8"
+        },
+        {
+          "node": 4,
+          "type": "Registration",
+          "category": "Stocks",
+          "visited": 700,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 5,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        },
+        {
+          "node": 6,
+          "type": "Registration",
+          "category": "Stocks2",
+          "visited": 7500,
+          "registered": 500,
+          "conversion": "0.15",
+          "startColor": "#9A44D9",
+          "endColor": "#3349FC"
+        }
+      ],
+      "links": [
+        {
+          "source": 0,
+          "target": 1,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 2,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 0,
+          "target": 3,
+          "value": 1,
+          "startColor": "#83DDFA",
+          "endColor": "#F87699"
+        },
+        {
+          "source": 1,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#54ef43"
+        },
+        {
+          "source": 1,
+          "target": 5,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 2,
+          "target": 4,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 3,
+          "target": 5,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        },
+        {
+          "source": 3,
+          "target": 6,
+          "value": 1,
+          "startColor": "#DE9DC9",
+          "endColor": "#9444DB"
+        }
+      ]
+    }
+  ]
+}
